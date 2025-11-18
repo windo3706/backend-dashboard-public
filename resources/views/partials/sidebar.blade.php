@@ -9,7 +9,7 @@
                 <img src="{{ asset('storage/' . session('selected_website_image')) }}" class="navbar-brand-img h-100"
                     alt="logo">
             @else
-                <img src="../assets/img/icon/512x512.png" class="navbar-brand-img h-100" alt="default_logo">
+                <img src="../assets/img/icon/400x400.jpg" class="navbar-brand-img h-100" alt="default_logo">
             @endif
             <span class="ms-1 font-weight-bold">{{ session('selected_website_name') ?? 'Website' }}</span>
         </a>
