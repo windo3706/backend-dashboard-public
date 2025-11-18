@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Company Profile API
 
 A simple backend to manage one or multiple company profiles, with accessible API endpoints for products, news, slides, videos, menus, and pages.
@@ -67,3 +68,7 @@ The database file is located at: \database\dashboardsweb.sql
 ### Preview Master Table Menu
 ![Preview 4](public/assets/img/preview/capture4.png)
 
+=======
+# backend-dashboard-public
+Backend profile for a company website with more than one or two profiles using an API
+>>>>>>> 0bf83a498a7bc5f685622b0bab2bb3847babe9ee
